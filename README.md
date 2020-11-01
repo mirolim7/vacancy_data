@@ -1,4 +1,4 @@
 # vacancy_data
 Задачи на стажировку по Анализу Данных
 
-Решения задач находится в файле "Zadachi na stazhirovku.ipynb".
+Решения задач находятся в файле "Zadachi na stazhirovku.ipynb".
